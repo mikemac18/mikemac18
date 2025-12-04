@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @mikemac18
-- 👀 I’m interested in data science!
-- 🌱 I’m currently learning convolutional neural networks!
-- 💞️ I’m looking to collaborate on data science projects!
+- 👀 I love all things data engineering and data science!
 - 📫 How to reach me: michaelmacinnis18@gmail.com
 
 <!---
